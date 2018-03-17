@@ -1,0 +1,20 @@
+﻿生成启动时间为 2016/11/30 22:38:04。
+     1>项目“E:\visual studio Projects\subdivision_new\subdivision_new\subdivision_new.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\SDK\Qt\Qt5.5.0\5.5\msvc2013_64\include /I.\GeneratedFiles\Release /ID:\SDK\Qt\Qt5.5.0\5.5\msvc2013_64\include\QtCore /ID:\SDK\Qt\Qt5.5.0\5.5\msvc2013_64\include\QtGui /ID:\SDK\Qt\Qt5.5.0\5.5\msvc2013_64\include\QtWidgets /ID:\SDK\Qt\Qt5.5.0\5.5\msvc2013_64\include\QtOpenGL /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt draw_gl.cpp
+         draw_gl.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\visual studio Projects\subdivision_new\x64\Release\\subdivision_new.exe" /NOLOGO /LIBPATH:D:\SDK\Qt\Qt5.5.0\5.5\msvc2013_64\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib Qt5OpenGL.lib glut32.lib OpenGL32.Lib GlU32.Lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"E:\visual studio Projects\subdivision_new\x64\Release\subdivision_new.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\visual studio Projects\subdivision_new\x64\Release\subdivision_new.lib" /MACHINE:X64 x64\Release\block.obj
+         x64\Release\draw_gl.obj
+         x64\Release\qrc_subdivision_new.obj
+         x64\Release\moc_block.obj
+         x64\Release\moc_draw_gl.obj
+         x64\Release\moc_subdivision_new.obj
+         x64\Release\main.obj
+         x64\Release\subdivision_new.obj
+         subdivision_new.vcxproj -> E:\visual studio Projects\subdivision_new\x64\Release\subdivision_new.exe
+     1>已完成生成项目“E:\visual studio Projects\subdivision_new\subdivision_new\subdivision_new.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.28
